@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/styrexx/expenceBalance)
-- Live Site URL: [Live site URL here](https://styrexx.github.io/expenceBalance)
+- Live Site URL: [Live site URL here](https://expence-balance-ikyhk2uc6-styrexxs-projects.vercel.app/)
 
 ## My process
 
